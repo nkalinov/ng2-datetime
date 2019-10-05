@@ -1,3 +1,5 @@
+# Not maintaned
+
 # ng2-datetime
 [![npm version](https://badge.fury.io/js/ng2-datetime.svg)](https://badge.fury.io/js/ng2-datetime)
 
